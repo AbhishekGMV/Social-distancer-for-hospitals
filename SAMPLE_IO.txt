@@ -1,0 +1,27 @@
+Number of patients: 3
+
+Patient Name: john
+Bed number: 10
+Status: 1
+
+Patient Name: linc
+Bed number: 15
+Status: 0
+
+Patient Name: paul
+Bed number: 8
+Status: 0
+
+Patients information updated!
+Provide following information to enquire the receptionist about the patient
+
+Name of patient: john
+Visitor name: Garry
+Visitor phone number(with country code): +919123456780
+SID: ACd2557ed75e29520aade0e7ea5f3a308e
+Token: d63f4538748210a7abe3bf801605c35e
+From: +12018015158
+Visiting Time in minutes: 30
+
+Timer started! SMS has been sent to visitor
+
