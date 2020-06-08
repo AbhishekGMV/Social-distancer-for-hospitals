@@ -2,9 +2,9 @@
 
 Idea of this project is to avoid crowding of visitors in general ward, maintains hygiene and also avoids disturbing the other patient in any means. <br>
 Following steps occur in the process: <br>
-  • Receptionist maintains information of the in-patients of the hospital. <br/>
+  • The application maintains database information of the in-patients of the hospital. <br/>
   • Visitor enquires the receptionist about the patient, If the patient is admitted. <br/>
-  • Receptionist enquires visitor for necessary information. <br/>
+  • application enquires necessary information from visitor. <br/>
   • Generates a QR code based on bed number of respected patient. <br/>
   • The copy of QR code is sent to user via mail(to **save paper**) or a hard copy will be given if visitor doesn't have a phone.<br> 
   • SMS will be sent to visitor’s phone number about the visiting time. <br/>
@@ -12,13 +12,10 @@ Following steps occur in the process: <br>
   • Visitor will receive an automated call before 5 minutes of end of visiting time. <br/>
   
   
+#### Update <br>
+Role of receptionist comes into play only when the visitor doesn't know to use the UI 
   
-### Actors on the scene <br/>
-
-•	Receptionist – Maintains record of patient, communicates to visitor for information and generates QR code and facilitates automated SMS and Call services <br/>
-•	Visitor –   Enquires receptionist for details of patient and visits patient. <br/>
-
-
+  
 ### Tech stack used <br/>
 
 [Twilio Rest API](https://www.twilio.com/) <br/>
@@ -45,7 +42,7 @@ Program takes in following inputs upon running: <br/>
 •	Bed number <br/>
 •	Status (0 - admitted or 1 - discharged) respectively  <br/>
 
-Above input maintain Register of patients. Now the visitor enquires the receptionist about the patient, receptionist takes following input to check and facilitate the visit if patient is admitted. <br/>
+Above input maintain Register of patients. Now the visitor requests about the patient, application takes following input to check and facilitate the visit if patient is admitted. <br/>
 
 •	Name of the patient  <br/>
 •	Phone number  <br/>
