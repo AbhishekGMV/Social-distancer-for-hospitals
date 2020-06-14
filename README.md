@@ -12,7 +12,7 @@ Following steps occur in the process: <br>
   • Visitor will receive an automated call before 5 minutes of end of visiting time. <br/>
   
   
-#### Update <br>
+#### Note <br>
 Role of receptionist comes into play only when the visitor doesn't know to use the UI 
   
   
