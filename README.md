@@ -26,13 +26,13 @@ The phone number has to be a Registered to Twilio account and obtain SID, token 
 
 ### Advantages <br/>
  Reduces paper work! (Eco-friendly) <br/>
-	QR will be sent to visitor’s Mail ID. <br/>
-	In worst case (visitor who doesn’t have a phone), Hard copy of QR code will be provided. <br/>
+-	QR will be sent to visitor’s Mail ID. <br/>
+-	In worst case (visitor who doesn’t have a phone), Hard copy of QR code will be provided. <br/>
 
  Improves Quality of business <br>
- Helps improve Social distancing activity.<br>
-	Technology helps reduce Man power. <br>
-	Reduces cost of maintenance. <br>
+- Helps improve Social distancing activity.<br>
+-	Technology helps reduce Man power. <br>
+-	Reduces cost of maintenance. <br>
 
 ### Instructions to run the program  <br/>
 
