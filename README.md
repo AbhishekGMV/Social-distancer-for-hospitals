@@ -49,5 +49,9 @@ Above input maintain Register of patients. Now the visitor requests about the pa
 •	SID, Authorization token and a from number (Twilio Account)  <br/>
 •	Visiting time in minutes <br/>
 
+### References
+- [Geeksforgeeks, to generate QR code](https://www.geeksforgeeks.org/python-generate-qr-code-using-pyqrcode-module/)
+- [Twilio documentation](https://www.twilio.com/docs)
+
 ### Future enhancement
 Making this project a fully automated, UI based application product ready to use. 
