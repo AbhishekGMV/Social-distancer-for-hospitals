@@ -50,4 +50,4 @@ Above input maintain Register of patients. Now the visitor requests about the pa
 •	Visiting time in minutes <br/>
 
 ### Future enhancement
-Making this project a fully atomated, UI based application product ready to use. 
+Making this project a fully automated, UI based application product ready to use. 
